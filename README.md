@@ -38,7 +38,7 @@ To include depth information :
 ```
 
 To include taxonomic information :
-Please provide a reference protein dataset for use by CAT. Below are commands for downloading the database, but if you would like to use your own please follow the commands below:
+Please provide a reference protein dataset for use by CAT. Below are commands for downloading the database:
 ```
 wget tbb.bio.uu.nl/bastiaan/CAT_prepare/CAT_prepare_20210107.tar.gz
 tar -xvzf CAT_prepare_20210107.tar.gz
